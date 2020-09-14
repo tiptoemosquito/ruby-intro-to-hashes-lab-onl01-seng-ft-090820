@@ -20,7 +20,7 @@ def monopoly_with_second_tier
     "pennsylvania_railroad" => {},
     "b_and_o_railroad" => {},
     "shortline" => {}}, :rent_in_dollars => {}
-    }}#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
+    }} #copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
 
 end
 
