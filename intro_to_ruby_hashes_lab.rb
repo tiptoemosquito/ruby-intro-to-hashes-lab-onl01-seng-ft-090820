@@ -1,4 +1,4 @@
-binding.pry
+
 
 def new_hash
 hash = {}
